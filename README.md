@@ -1,1 +1,1 @@
-# lablab-ibm-hackathon
+# GenAI Hackathon with IBM-Granite
